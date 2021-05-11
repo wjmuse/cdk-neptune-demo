@@ -15,8 +15,8 @@ you can create the virtualenv manually.
 To manually create a virtualenv on MacOS and Linux:
 
 ```
-$ git clone https://github.com/ksmin23/neptune-tutorial.git
-$ cd neptune-tutorial/
+$ git clone https://github.com/wjmuse/cdk-neptune-demo.git
+$ cd cdk-neptune-demo/
 $ python3 -m venv .env
 ```
 
@@ -62,8 +62,6 @@ command.
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
-
-Enjoy!
 
 ## License
 These samples are available under the [MIT License](LICENSE).
